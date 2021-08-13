@@ -37,7 +37,7 @@ RECIPES = {
         'price': 11,
     },
     'la jeremy': {
-        'ingredients': {'mozzarella': 3, 'pepper': 4, 'chorizo': 5},
+        'ingredients': {'mozzarella': 3, 'pepper': 4, 'garlic': 3},
         'price': 12,
     }
 }
